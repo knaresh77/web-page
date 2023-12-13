@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+.navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: black;
+    font-size: 1.2rem;
+
+}
+.container1{
+    background-color: rgba(255, 192, 203, 0.237);
+    display: flex;
+}
+.container1 img{
+    width: 200px;
+    height: 300px;
+    margin: 2%;
+  
+
+}
+.container1 .title{
+    padding: 10% 20%;
+}
+.container2{
+    background-color: rgba(255, 192, 203, 0);
+    display: flex;
+}
+.container2 img{
+    width: 200px;
+    height: 300px;
+    margin: 2%;
+  
+
+}
+.container2 .title{
+    padding: 10% 20%;
+}
+.text-center {
+    background-color: rgba(255, 192, 192, 0.212);
+
+}
